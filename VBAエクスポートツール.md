@@ -1,5 +1,5 @@
  Sub ExportAll()
-    Dim module                  As VBComponent      '// モジュール　これを用いるとVBAをエクスポートしてくれる凄いやつ！！
+    Dim module                  As VBComponent      '// モジュール　これを用いるとVBAをエクスポートしてくれる凄いやつ！！!!
     Dim moduleList              As VBComponents     '// VBAプロジェクトの全モジュール
     Dim extension                                   '// モジュールの拡張子
     Dim sPath                                       '// 処理対象ブックのパス
